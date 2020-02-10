@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Lab 4</string>
+    <string name="app_Title">Bienvenido \nMenú Principal</string>
+    <string name="description_button">Información \nTikal</string>
+    <string name="about_button">Acerca de…</string>
+    <string name="comment_button">Comentarios</string>
+    <string name="place_text">Tikal</string>
+    <string name="name_text">Nombre</string>
+    <string name="hint_text">Ingrese el texto aquí…</string>
+    <string name="info_text">
+        \n
+        Tikal es un sitio arqueológico maya situado en la región nororiental de Petén y uno de los más grandes \n
+        y más conocidos de la región. Cuenta con una superficie total de 120 kilómetros cuadrados, un sector \n
+        especial de 16 kilómetros cuadrados y alrededor de 13 500 estructuras conocidas (Diccionario Histórico \n
+        Biográfico de Guatemala, 2004).\n \n
+        Se calcula que Tikal albergó hasta un máximo de 90 000 habitantes en el momento de su apogeo \n
+        (Diccionario Histórico Biográfico de Guatemala, 2004).\n\n
+        El Parque Nacional Tikal, creado en 1955, es una reserva natural de 576 kms cuadrados, y ha sido declarado\n
+        Monumento Nacional y Patrimonio Cultural de la Humanidad (Diccionario Histórico Biográfico de Guatemala, 2004).\n\n
+        Tikal se asentó en varias elevaciones naturales de piedra caliza, las cuales llegan a los 50 metros \n
+        de altura. Dichas prominencias están rodeadas de zonas pantanosas llamadas “bajos”, las que posteriormente\n
+        fueron modificadas para crear “aguadas” o reservas de agua. Su ubicación corresponde a un punto central o \n
+        intermedio de la región maya y las Tierras Bajas Centrales, y constituía una posición estratégica para el \n
+        control del paso constante de productos provenientes del Río Usumacinta, del Océano Atlántico, del Río de \n
+        La Pasión y del Altiplano (Diccionario Histórico Biográfico de Guatemala, 2004).\n\n
+    </string>
+    <string name="comment_text">Comentario </string>
+    <string name="comment_text2">Comentar </string>
+    <string name="about_title">Autobiografía</string>
+    <string name="about_image">Imagen del avatar</string>
+    <string name="biography">
+        \n
+        Mi nombre es Martín Eduardo España Rivera, y nací el 29 de julio del año 2000. En el año 2002 tuve \n
+        la operación de mi apéndice. Un año después leí mi primera palabra. Luego, en 2005 ingrsé al \n
+        pre-kinder. Un año después ingresé al Colegio Guatemalteco Bilingüe en Kinder. En 2007 me mude a mi \n
+        nueva casa y, ese mismo año viaje por primera vez fuera del país a Los Ángeles. En 2009 fue mi \n
+        primera comunión. Tres años después, en 2012, mi madre tuvo una cirugía de la columna. \n
+        En el año 2014 ingresé a secundaria. En 2017 tuve mi confirmación y a final de este año \n
+        murió mi perro Kapee. En 2018 tuve mi graduación del colegio, la cual concordó con la \n
+        jubilación de mi padre. En 2019 ingrsé a la Universidad del Valle de Guatemala y en este \n
+        año fallecieron mis dos abuelos maternos. Actualmente continúo mi aprendizaje cursando \n
+        el tercer semestre de la carrera de Ingeniería en Ciencia de la Computación y Tecnología \n
+        de la Información.
+    </string>
+
+
+
+</resources>
